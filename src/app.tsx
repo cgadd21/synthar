@@ -1,6 +1,5 @@
 export const App = () => (
   <div>
-    <h1>My App</h1>
-    <p>My app is the best app in the world!</p>
+    <h1 className="text-3xl font-bold underline">Hello world!</h1>
   </div>
 );
