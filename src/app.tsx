@@ -6,7 +6,7 @@ export const App = () => (
       </pre>
       <pre data-prefix="👨🏻‍💻">
         <code>
-          <a href="https://github.com/cgadd21" target="_blank">
+          <a href="https://github.com/cooper-gadd" target="_blank">
             github
           </a>
         </code>
