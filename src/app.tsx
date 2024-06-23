@@ -25,6 +25,13 @@ export const App = () => (
           </a>
         </code>
       </pre>
+      <pre data-prefix="📄">
+        <code>
+          <a href="https://ctgadd.com/pixelate/" target="_blank">
+            pixelate
+          </a>
+        </code>
+      </pre>
     </div>
   </div>
 );
